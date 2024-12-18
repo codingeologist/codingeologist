@@ -8,7 +8,7 @@ I'm a versatile Scientist with professional and practical experience in Data Sci
 - 🤔 I’m looking for help with [TypeDB](https://typedb.com/)! This is a powerful strongly typed graphing database that I'm using to develop the museum's taxonomic equivalence engine.
 - 🏆 I showcased the Natural History Museum's "Data Ecosystem" at the Urban Nature Hub at the AWS Summit 2024 in London. Demonstrating and talking about the platform and how it is being used to help scientific research and restore the [UK's biodiversity](https://www.nhm.ac.uk/discover/news/2020/september/uk-has-led-the-world-in-destroying-the-natural-environment.html).
 - 💬 Ask me about building data visualisations and creating maps!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siddhartha-kirk-r-74037a29/)
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/siddhartha-kirk-r-74037a29/) [My Github Pages Site](https://codingeologist.github.io/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know there are over 50,000 unique observations in the [Natural History Museum's wildlife gardens](https://www.aboutamazon.co.uk/aws-natural-history-museum-garden)? The most frequent species observed is the Common Blackbird (Turdus merula) with over 3000 observations!
 
