@@ -11,6 +11,7 @@ I'm a versatile Scientist with professional and practical experience in Data Sci
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/siddhartha-kirk-r-74037a29/) [My Github Pages Site](https://codingeologist.github.io/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know there are over 50,000 unique observations in the [Natural History Museum's wildlife gardens](https://www.aboutamazon.co.uk/aws-natural-history-museum-garden)? The most frequent species observed is the Common Blackbird (Turdus merula) with over 3000 observations!
+- 🤖 Agentes Artificialis Intelligentia auxilium praebent sed homo semper inspicit et comittit.
 
 <!--
 **codingeologist/codingeologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
