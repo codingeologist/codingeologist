@@ -5,9 +5,9 @@ I'm a versatile Scientist with professional and practical experience in Data Sci
 - 🔭 I’m currently working on building the [NHM Data Ecosystem](https://thedataecosystem.com/) for the Natural History Museum, supporting the museum's Urban Nature Project to help scientific research and promote biodiversity recovery.
 - 🌱 I’m currently learning about using the [TypeDB](https://typedb.com/) graphing database to build a global taxonomic equivalence engine containing different species from the UK and across the world.
 - 👯 I’m looking to collaborate on projects to help monitor and promote environmental sustainability.
-- 🤔 I’m looking for help with [Gremlin](https://tinkerpop.apache.org/) and [TypeDB](https://typedb.com/)! These are powerful graphing databases that I'm using to develop the museum's taxonomic equivalence engine.
-- 🏆 I showcased the Natural History Museum's "Data Ecosystem" at the Urban Nature Hub at the AWS Summit 2024 in London. Demonstrating and talking about the platform and how it is being used to help scientific research and restore the [UK's biodiversity](https://www.nhm.ac.uk/discover/news/2020/september/uk-has-led-the-world-in-destroying-the-natural-environment.html).
-- 💬 Ask me about building data visualisations and creating maps!
+- 🤔 I’m looking for help with [Gremlin](https://tinkerpop.apache.org/), [TypeDB](https://typedb.com/), and [DuckDB Graphs](https://duckdb.org/docs/current/guides/sql_features/graph_queries)! These are powerful graphing databases that I'm using to develop the museum's taxonomic equivalence engine.
+- 🏆 I showcased the Natural History Museum's "Data Ecosystem" at the Urban Nature Hub at the AWS Summit 2024/2025 in London. Demonstrating and talking about the platform and how it is being used to help scientific research and restore the [UK's biodiversity](https://www.nhm.ac.uk/discover/news/2020/september/uk-has-led-the-world-in-destroying-the-natural-environment.html).
+- 💬 Ask me about building data visualisations, creating maps, or random fun facts about the history of the Roman Empire!
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/siddhartha-kirk-r-74037a29/) [My Github Pages Site](https://codingeologist.github.io/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know there are over 50,000 unique observations in the [Natural History Museum's wildlife gardens](https://www.aboutamazon.co.uk/aws-natural-history-museum-garden)? The most frequent species observed is the Common Blackbird (Turdus merula) with over 3000 observations!
