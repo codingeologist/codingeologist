@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a versatile Scientist with professional and practical experience in Data Science and Engineering with a keen interest in Environmental Sustainability, Geospatial data analysis and Data Engineering. Specialising in ETL/ELT pipeline engineering and Geospatial analysis.
+Senior Software Engineer with a geoscientist's background and 7+ years building data, AI and cloud platforms across science, telecoms and the built environment. Currently sole software engineer on the Natural History Museum's AI digitisation platform, unlocking millions of collection objects for research. Presenter at AWS Summit London 2024/2025, designing AWS platforms where cost and carbon efficiency are first-class engineering constraints. Side project, [Bibliagraphia](https://bibliagraphia.com), won the [People's Choice award at FaithTech BUILD 2026](https://ftbuild.org.uk/projects#bibliagraphia).
 
 - 🔭 I’m currently working on the Natural History Museum's [SCRIBE](https://rukayaj.github.io/2026-conference-explorer/talk/sala-2026-09-25-02/?utm_source=qwant&utm_medium=referral&utm_campaign=ai_flash) project to help digitise the collection.
 - 🌱 I’m currently learning about LLM inference and graphing databases to build distributed and decentralised knowledge graph networks.
